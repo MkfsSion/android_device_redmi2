@@ -244,6 +244,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
     camera.device@3.2-impl \
+    camera.msm8916 \
     Snap \
     libmm-qcamera \
     libshim_camera \
